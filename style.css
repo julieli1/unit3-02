@@ -19,6 +19,18 @@ div {
   font-size: 120%;
 }
 
+table {
+  width: 100%;
+}
+
+table, th, td {
+  border-style: solid;
+  border-color: #3f2727;
+  border-collapse: collapse;
+  border-width: 1px;
+  padding: 10px;
+}
+
 .images {
   border: 15px solid #3f2727;
   padding: 20px;
